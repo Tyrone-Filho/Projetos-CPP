@@ -81,6 +81,5 @@ int main()
                escolhidos.clear();
           }
      } while (continuar != "N");
-     // system("cls");
      return 1;
 }
